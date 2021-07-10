@@ -1084,7 +1084,7 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-r9vMJlji9b H1 {
-  color: #ffffff;
+  color: #ff3366;
 }
 .cid-r9vMJlji9b P {
   color: #ffffff;
@@ -1126,7 +1126,7 @@ section.lazy-placeholder:after {
   -webkit-flex-direction: column;
 }
 .cid-sCD76wXxuY .mbr-section-title {
-  color: #465052;
+  color: #ff3366;
 }
 .cid-sCD76wXxuY .card-title {
   text-align: center;
@@ -1134,10 +1134,13 @@ section.lazy-placeholder:after {
 .cid-sCD76wXxuY .card-title,
 .cid-sCD76wXxuY .card-img {
   text-align: center;
-  color: #465052;
+  color: #ff3366;
 }
 .cid-r9vxSxwl5Y {
   background-image: url("../../../assets/images/design-sem-nome-2-1920x1080.png");
+}
+.cid-r9vxSxwl5Y H1 {
+  color: #ff3366;
 }
 .cid-sCDwgl5afo {
   padding-top: 90px;
@@ -1220,15 +1223,15 @@ section.lazy-placeholder:after {
   color: #ff3366;
 }
 .cid-sCDwgl5afo .mbr-text {
-  color: #232323;
+  color: #465052;
 }
 .cid-sCDwgl5afo P {
-  color: #232323;
+  color: #465052;
 }
 .cid-sCDQnThvBz {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #fafafa;
 }
 .cid-sCDQnThvBz P {
   color: #767676;
@@ -1239,7 +1242,7 @@ section.lazy-placeholder:after {
 .cid-sCDOM5uw99 {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #fafafa;
 }
 .cid-sCDOM5uw99 h4 {
   text-align: left;
@@ -1277,9 +1280,11 @@ section.lazy-placeholder:after {
 .cid-sCDOM5uw99 .card-title,
 .cid-sCDOM5uw99 .card-img {
   text-align: center;
+  color: #465052;
 }
 .cid-sCDOM5uw99 P {
   text-align: center;
+  color: #465052;
 }
 .cid-sCDDsR9ZAw {
   padding-top: 45px;
@@ -1292,15 +1297,19 @@ section.lazy-placeholder:after {
 .cid-sCDDsR9ZAw H1 {
   color: #ff3366;
 }
-.cid-sCDzxtUXJj {
+.cid-sCDDsR9ZAw .mbr-text,
+.cid-sCDDsR9ZAw .mbr-section-btn {
+  color: #465052;
+}
+.cid-sCLpdew3lL {
   padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-sCDzxtUXJj .list-group-item {
+.cid-sCLpdew3lL .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-sCDzxtUXJj .plan {
+.cid-sCLpdew3lL .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -1308,14 +1317,14 @@ section.lazy-placeholder:after {
   padding-left: 0;
   color: #767676;
 }
-.cid-sCDzxtUXJj .plan .list-group-item {
+.cid-sCLpdew3lL .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   background-color: transparent;
   border: 0;
 }
-.cid-sCDzxtUXJj .plan .list-group-item::after {
+.cid-sCLpdew3lL .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -1324,36 +1333,39 @@ section.lazy-placeholder:after {
   content: "";
   background-color: #eaeaea;
 }
-.cid-sCDzxtUXJj .plan .list-group-item:last-child::after {
+.cid-sCLpdew3lL .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-sCDzxtUXJj .plan.favorite {
+.cid-sCLpdew3lL .plan.favorite {
   background-color: #fff;
   box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
 }
-.cid-sCDzxtUXJj .plan-header {
+.cid-sCLpdew3lL .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-sCDzxtUXJj .price-figure {
+.cid-sCLpdew3lL .price-figure {
   font-weight: 700;
   color: #ff3366;
 }
-.cid-sCDzxtUXJj .price-value {
+.cid-sCLpdew3lL .price-value {
   font-weight: 700;
   vertical-align: top;
-  color: #465052;
+  color: #ff3366;
 }
 @media (max-width: 550px) {
-  .cid-sCDzxtUXJj .price-figure {
+  .cid-sCLpdew3lL .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-sCDzxtUXJj .plan-title {
+.cid-sCLpdew3lL UL {
+  color: #465052;
+}
+.cid-sCLpdew3lL .plan-title {
   color: #ff3366;
 }
-.cid-sCDzxtUXJj SPAN {
-  color: #cc2952;
+.cid-sCLpdew3lL SPAN {
+  color: #465052;
 }
 .cid-r9vMicdYt4 {
   padding-top: 60px;
@@ -1427,4 +1439,16 @@ section.lazy-placeholder:after {
 }
 .cid-r9vMicdYt4 H5 {
   text-align: left;
+}
+#custom-html-z {
+  /* Type valid CSS here */
+}
+#custom-html-z div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-z p {
+  font-size: 60px;
+  color: #777;
 }
