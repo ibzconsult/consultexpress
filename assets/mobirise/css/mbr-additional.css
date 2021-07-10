@@ -1091,7 +1091,7 @@ section.lazy-placeholder:after {
 }
 .cid-sCD76wXxuY {
   padding-top: 120px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-sCD76wXxuY h3 {
@@ -1141,14 +1141,6 @@ section.lazy-placeholder:after {
 }
 .cid-r9vxSxwl5Y H1 {
   color: #ff3366;
-}
-.cid-sCLXdrXEBx {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/masterclass-6-1080x1080.png");
-}
-.cid-sCLXdrXEBx P {
-  color: #767676;
 }
 .cid-sCDwgl5afo {
   padding-top: 90px;
@@ -1239,7 +1231,7 @@ section.lazy-placeholder:after {
 .cid-sCDQnThvBz {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/4-1920x1080.png");
+  background-color: #073b4c;
 }
 .cid-sCDQnThvBz P {
   color: #767676;
@@ -1250,7 +1242,7 @@ section.lazy-placeholder:after {
 .cid-sCDOM5uw99 {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #fafafa;
+  background-color: #073b4c;
 }
 .cid-sCDOM5uw99 h4 {
   text-align: left;
@@ -1288,16 +1280,16 @@ section.lazy-placeholder:after {
 .cid-sCDOM5uw99 .card-title,
 .cid-sCDOM5uw99 .card-img {
   text-align: center;
-  color: #465052;
+  color: #ffffff;
 }
 .cid-sCDOM5uw99 P {
   text-align: center;
-  color: #465052;
+  color: #ffffff;
 }
 .cid-sCDDsR9ZAw {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-sCDDsR9ZAw P {
   color: #767676;
@@ -1312,7 +1304,7 @@ section.lazy-placeholder:after {
 .cid-sCLpdew3lL {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-sCLpdew3lL .list-group-item {
   padding: .75rem 3.25rem;
